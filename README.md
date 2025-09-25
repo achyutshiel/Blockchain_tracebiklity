@@ -155,7 +155,7 @@ GET http://localhost:5000/api/collections/E1001
 
 ## 👨‍💻 Team
 - **Govind Dubey** → Backend Systems Engineer
-- **Achyut Kumar Pandey** → Backend Systems Engineer
+- **Achyut Kumar Pandey** → Cryptography & Blockchain Specialist
 - **Harshita Singh** → Data Acquisition & Documentation Lead
 - **Pragya Gupta** → Web Frontend Engineer
 - **Harsh Singh** →AI/ML Engineer
