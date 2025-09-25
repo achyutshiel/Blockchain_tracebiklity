@@ -1,4 +1,4 @@
-# 🌿 Blockchain Traceability System (PS-25027) — Repo Structure & Setup
+# 🌿 Blockchain Traceability System (PS-25027)
 
 A secure backend service for tracking medicinal plant collections with blockchain-style immutability and digital signatures.
 Built with Express.js and Node.js, this project ensures that once data is stored, it cannot be tampered with — providing cryptographic proof of authenticity.
